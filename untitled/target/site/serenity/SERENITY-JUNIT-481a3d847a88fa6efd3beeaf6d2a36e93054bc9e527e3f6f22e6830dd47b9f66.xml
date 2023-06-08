@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="1" name="org.example.features.search.SearchByKeywordUbbClujDDT" skipped="2" tests="6" time="34.31" timestamp="2023-05-04 07:47:38"><testcase classname="org.example.features.search.SearchByKeywordUbbClujDDT" name="Searching by ambiguious keyword should display the disambiguation page"><skipped/></testcase><testcase classname="org.example.features.search.SearchByKeywordUbbClujDDT" name="Searching by keyword invalid input too long should fail"><error message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;.title&quot;}&#10;  (Session info: headless chrome=110.0.5481.178)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\paula\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57044}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 45dd4236bfdcd6f00716c28670bb6fa5&#10;*** Element info: {Using=class name, value=title}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">no such element: Unable to locate element: {"method":"css selector","selector":".title"}
+  (Session info: headless chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\paula\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57044}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 45dd4236bfdcd6f00716c28670bb6fa5
+*** Element info: {Using=class name, value=title}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown</error><system-err>no such element: Unable to locate element: {"method":"css selector","selector":".title"}
+  (Session info: headless chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\paula\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57044}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 45dd4236bfdcd6f00716c28670bb6fa5
+*** Element info: {Using=class name, value=title}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DELLG5-5587-ADA', ip: '192.168.100.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown&#13;
+org.example.pages.UbbClujPage.getFirstTitleAfterSearch(UbbClujPage.java:34)&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.shouldSeeFirstTitleAfterSearch(EndUserStepsUbbCluj.java:28)&#13;
+org.example.features.search.SearchByKeywordUbbClujDDT.searching_by_keyword_invalid_inputTooLong_should_fail(SearchByKeywordUbbClujDDT.java:48)&#13;
+</system-err></testcase><testcase classname="org.example.features.search.SearchByKeywordUbbClujDDT" name="Searching by keyword orar should display the corresponding article"><failure message="&#10;Expected: a collection containing a string containing &quot;\&quot;Mathematics and Computer Science – between Eternity and Effervescence&quot;&#10;     but: was &quot;Link spre Dr. Mihai Surdeanu, University of Arizona: Explainable Deep Learning for Natural Language Processing&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "\"Mathematics and Computer Science – between Eternity and Effervescence"
+     but: was "Link spre Dr. Mihai Surdeanu, University of Arizona: Explainable Deep Learning for Natural Language Processing"</failure><system-err>
+Expected: a collection containing a string containing "\"Mathematics and Computer Science – between Eternity and Effervescence"
+     but: was "Link spre Dr. Mihai Surdeanu, University of Arizona: Explainable Deep Learning for Natural Language Processing"&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.shouldSeeFirstTitleAfterSearch(EndUserStepsUbbCluj.java:28)&#13;
+org.example.features.search.SearchByKeywordUbbClujDDT.searching_by_keyword_orar_should_display_the_corresponding_article(SearchByKeywordUbbClujDDT.java:40)&#13;
+</system-err></testcase></testsuite>

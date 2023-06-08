@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.example.features.select.SelectLanguageUbbClujDDT" skipped="1" tests="3" time="20.32" timestamp="2023-05-04 07:30:25"><testcase classname="org.example.features.select.SelectLanguageUbbClujDDT" name="Select change language should display the corresponding title in en"/><testcase classname="org.example.features.select.SelectLanguageUbbClujDDT" name="Select change language should display the corresponding title in ro"><failure message="&#10;Expected: a string containing &quot;Matematică și Informatică – între Eternitate și Efervescență&quot;&#10;     but: was &quot;Mathematics and Computer Science – between Eternity and Effervescence&quot;" type="java.lang.AssertionError">
+Expected: a string containing "Matematică și Informatică – între Eternitate și Efervescență"
+     but: was "Mathematics and Computer Science – between Eternity and Effervescence"</failure><system-err>
+Expected: a string containing "Matematică și Informatică – între Eternitate și Efervescență"
+     but: was "Mathematics and Computer Science – between Eternity and Effervescence"&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.shouldSeeMainPageTitle(EndUserStepsUbbCluj.java:33)&#13;
+org.example.features.select.SelectLanguageUbbClujDDT.select_change_language__should_display_the_corresponding_title_in_ro(SelectLanguageUbbClujDDT.java:34)&#13;
+</system-err></testcase><testcase classname="org.example.features.select.SelectLanguageUbbClujDDT" name="Searching by ambiguious keyword should display the disambiguation page"><skipped/></testcase></testsuite>

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Select language ubb cluj DDT","Select change language should display the corresponding title in ro","FAILURE","2023-05-04T19:32:06.9977061+03:00[Europe/Athens]","0.0","12.07"
+"Select language ubb cluj DDT","Select change language invalid should display the corresponding title in ro should fail","FAILURE","2023-05-04T19:51:58.3437342+03:00[Europe/Athens]","0.0","18.64"
+"Select language ubb cluj DDT","Select change language should display the corresponding title in en","FAILURE","2023-05-04T19:51:58.5648655+03:00[Europe/Athens]","0.0","7.54"

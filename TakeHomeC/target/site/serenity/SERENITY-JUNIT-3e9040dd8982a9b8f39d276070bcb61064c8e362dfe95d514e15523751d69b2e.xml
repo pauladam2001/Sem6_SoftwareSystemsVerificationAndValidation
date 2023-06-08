@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.example.features.search.SearchByKeywordUbbClujDDT" skipped="0" tests="1" time="12.05" timestamp="2023-05-04 07:33:19"><testcase classname="org.example.features.search.SearchByKeywordUbbClujDDT" name="Searching by keyword b should display the corresponding title"><failure message="&#10;Expected: a collection containing a string containing &quot;Link spre Eveniment ideatie Digital Tools for Mental Health # CS InnoHUB&quot;&#10;     but: was &quot;Link spre Susţinere teză de doctorat, LEOTESCU (NUȚU) Maria: Soluții bazate pe Algoritmi de Învățare Automată pentru Procesarea Textului și Sinteza de Voce&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "Link spre Eveniment ideatie Digital Tools for Mental Health # CS InnoHUB"
+     but: was "Link spre Susţinere teză de doctorat, LEOTESCU (NUȚU) Maria: Soluții bazate pe Algoritmi de Învățare Automată pentru Procesarea Textului și Sinteza de Voce"</failure><system-err>
+Expected: a collection containing a string containing "Link spre Eveniment ideatie Digital Tools for Mental Health # CS InnoHUB"
+     but: was "Link spre Susţinere teză de doctorat, LEOTESCU (NUȚU) Maria: Soluții bazate pe Algoritmi de Învățare Automată pentru Procesarea Textului și Sinteza de Voce"&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.shouldSeeFirstTitleAfterSearch(EndUserStepsUbbCluj.java:28)&#13;
+org.example.features.search.SearchByKeywordUbbClujDDT.searching_by_keyword_b_should_display_the_corresponding_title(SearchByKeywordUbbClujDDT.java:28)&#13;
+</system-err></testcase></testsuite>

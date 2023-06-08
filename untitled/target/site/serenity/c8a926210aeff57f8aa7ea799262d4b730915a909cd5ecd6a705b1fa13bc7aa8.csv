@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword DDT ubb cluj","Search for valid query","ERROR","2023-05-04T15:05:59.7553987+03:00[Europe/Athens]","0.0","37.36"
+"Search by keyword DDT ubb cluj","Search for invalid query","ERROR","2023-05-04T15:05:59.9779039+03:00[Europe/Athens]","0.0","12.29"
+"Search by keyword ubb cluj DDT","Searching by keyword invalid input too long should fail","ERROR","2023-05-04T15:39:24.0194921+03:00[Europe/Athens]","0.0","7.4"
+"Search by keyword ubb cluj DDT","Searching by keyword invalid input too long should fail","ERROR","2023-05-04T19:47:38.6057797+03:00[Europe/Athens]","0.0","25.06"

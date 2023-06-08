@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.example.features.search.SearchByKeywordUbbClujDDT" skipped="0" tests="1" time="11.04" timestamp="2023-05-04 07:40:47"><testcase classname="org.example.features.search.SearchByKeywordUbbClujDDT" name="Searching by keyword orar should display the corresponding article"><error message="Keys to send should be a not null CharSequence" type="java.lang.IllegalArgumentException">Keys to send should be a not null CharSequence</error><system-err>Keys to send should be a not null CharSequence&#13;
+org.example.pages.UbbClujPage.enterKeywordsAndSearch(UbbClujPage.java:25)&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.entersAndSearches(EndUserStepsUbbCluj.java:18)&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.looks_for(EndUserStepsUbbCluj.java:43)&#13;
+org.example.features.search.SearchByKeywordUbbClujDDT.searching_by_keyword_orar_should_display_the_corresponding_article(SearchByKeywordUbbClujDDT.java:38)&#13;
+</system-err></testcase></testsuite>

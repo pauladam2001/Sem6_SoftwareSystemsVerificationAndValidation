@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword basketball should display the corresponding article","SUCCESS","2023-05-04T19:53:05.633268+03:00[Europe/Athens]","0.0","11.94"
+"Search by keyword story","Searching by keyword magnesium should display the corresponding article","SUCCESS","2023-05-04T19:53:18.2847794+03:00[Europe/Athens]","0.0","2.32"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2023-05-04T19:53:23.8236886+03:00[Europe/Athens]","0.0","2.95"

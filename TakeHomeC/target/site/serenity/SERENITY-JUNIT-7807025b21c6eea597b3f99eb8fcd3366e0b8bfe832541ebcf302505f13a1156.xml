@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="4" failures="4" name="org.example.features.search.SearchByKeywordDDTUbbCluj" skipped="0" tests="8" time="49.65" timestamp="2023-05-04 03:05:59"><testcase classname="org.example.features.search.SearchByKeywordDDTUbbCluj" name="Search for valid query"><error message="&#10;Expected: a collection containing a string containing &quot;results page for phones&quot;&#10;     but: was &quot;A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.&#10;Daragh's on the phone at the moment. He'll call you when he's finished.&#10;My phone ran out of battery.&#10;There's an old-fashioned phone in the doctor's waiting room - it doesn't work anymore, of course.&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "results page for phones"
+     but: was "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.
+Daragh's on the phone at the moment. He'll call you when he's finished.
+My phone ran out of battery.
+There's an old-fashioned phone in the doctor's waiting room - it doesn't work anymore, of course."</error><system-err>
+Expected: a collection containing a string containing "results page for phones"
+     but: was "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.
+Daragh's on the phone at the moment. He'll call you when he's finished.
+My phone ran out of battery.
+There's an old-fashioned phone in the doctor's waiting room - it doesn't work anymore, of course."&#13;
+org.example.steps.serenity.EndUserSteps.should_see_definition(EndUserSteps.java:27)&#13;
+org.example.features.search.SearchByKeywordDDTUbbCluj.searchForValidQuery(SearchByKeywordDDTUbbCluj.java:37)&#13;
+</system-err></testcase><testcase classname="org.example.features.search.SearchByKeywordDDTUbbCluj" name="Search for invalid query"><error message="&#10;Expected: a collection containing a string containing &quot;results page for phones&quot;&#10;     but: was &quot;A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.&#10;Daragh's on the phone at the moment. He'll call you when he's finished.&#10;My phone ran out of battery.&#10;There's an old-fashioned phone in the doctor's waiting room - it doesn't work anymore, of course.&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "results page for phones"
+     but: was "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.
+Daragh's on the phone at the moment. He'll call you when he's finished.
+My phone ran out of battery.
+There's an old-fashioned phone in the doctor's waiting room - it doesn't work anymore, of course."</error><system-err>
+Expected: a collection containing a string containing "results page for phones"
+     but: was "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.
+Daragh's on the phone at the moment. He'll call you when he's finished.
+My phone ran out of battery.
+There's an old-fashioned phone in the doctor's waiting room - it doesn't work anymore, of course."&#13;
+org.example.steps.serenity.EndUserSteps.should_see_definition(EndUserSteps.java:27)&#13;
+org.example.features.search.SearchByKeywordDDTUbbCluj.searchForInvalidQuery(SearchByKeywordDDTUbbCluj.java:45)&#13;
+</system-err></testcase></testsuite>

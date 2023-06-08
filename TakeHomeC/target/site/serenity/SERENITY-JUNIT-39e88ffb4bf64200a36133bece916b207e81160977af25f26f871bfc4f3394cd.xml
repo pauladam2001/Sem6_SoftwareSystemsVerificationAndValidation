@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="org.example.features.select.SelectLanguageUbbClujDDT" skipped="0" tests="4" time="26.18" timestamp="2023-05-04 07:51:58"><testcase classname="org.example.features.select.SelectLanguageUbbClujDDT" name="Select change language invalid should display the corresponding title in ro should fail"><failure message="&#10;Expected: a string containing &quot;Matematică și Informatică – între Eternitate și Efervescență&quot;&#10;     but: was &quot;Mathematics and Computer Science – between Eternity and Effervescence&quot;" type="java.lang.AssertionError">
+Expected: a string containing "Matematică și Informatică – între Eternitate și Efervescență"
+     but: was "Mathematics and Computer Science – between Eternity and Effervescence"</failure><system-err>
+Expected: a string containing "Matematică și Informatică – între Eternitate și Efervescență"
+     but: was "Mathematics and Computer Science – between Eternity and Effervescence"&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.shouldSeeMainPageTitle(EndUserStepsUbbCluj.java:33)&#13;
+org.example.features.select.SelectLanguageUbbClujDDT.select_change_language_invalid_should_display_the_corresponding_title_in_ro_should_fail(SelectLanguageUbbClujDDT.java:46)&#13;
+</system-err></testcase><testcase classname="org.example.features.select.SelectLanguageUbbClujDDT" name="Select change language should display the corresponding title in en"><failure message="&#10;Expected: a string containing &quot;Link spre Orarul programului postuniversitar de pregatire si formare profesionala in Informatica, modulul 2, sem. 2, an univ. 2022-2023&quot;&#10;     but: was &quot;Mathematics and Computer Science – between Eternity and Effervescence&quot;" type="java.lang.AssertionError">
+Expected: a string containing "Link spre Orarul programului postuniversitar de pregatire si formare profesionala in Informatica, modulul 2, sem. 2, an univ. 2022-2023"
+     but: was "Mathematics and Computer Science – between Eternity and Effervescence"</failure><system-err>
+Expected: a string containing "Link spre Orarul programului postuniversitar de pregatire si formare profesionala in Informatica, modulul 2, sem. 2, an univ. 2022-2023"
+     but: was "Mathematics and Computer Science – between Eternity and Effervescence"&#13;
+org.example.steps.serenity.EndUserStepsUbbCluj.shouldSeeMainPageTitle(EndUserStepsUbbCluj.java:33)&#13;
+org.example.features.select.SelectLanguageUbbClujDDT.select_change_language_should_display_the_corresponding_title_in_en(SelectLanguageUbbClujDDT.java:38)&#13;
+</system-err></testcase></testsuite>
